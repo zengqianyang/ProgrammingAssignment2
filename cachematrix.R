@@ -1,3 +1,5 @@
+# The function responsible for making cache matrix
+
 makeCacheMatrix <- function(x = matrix()) {
 
   inv <- NULL
